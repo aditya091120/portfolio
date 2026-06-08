@@ -70,7 +70,7 @@ CGPA: 8.09
 Add your deployed website link here:
 
 ```text
-https://your-portfolio-link.com
+[https://your-portfolio-link.com](https://fanciful-speculoos-00115c.netlify.app/)
 ```
 
 ## 📸 Screenshot
